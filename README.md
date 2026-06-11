@@ -1,5 +1,7 @@
 # LUDO Board Game
 
+*CMPSC 297 — Special Topics · The Pennsylvania State University · 2023*
+
 **[▶ Play Now →](https://halkhoori2000.github.io/LUDO-Board-Game/)**
 
 A fully playable 4-player LUDO board game that runs entirely in the browser. No install, no server — open the link and play. The board is rendered on an HTML Canvas and all game logic is implemented in vanilla JavaScript.
@@ -64,4 +66,5 @@ open index.html
 
 ## Course
 
-The Pennsylvania State University
+CMPSC 297 — Special Topics  
+The Pennsylvania State University · 2023
